@@ -4,6 +4,7 @@ public class Prueba {
 
 		System.out.println("Cordero Pelayo");
 		System.out.println("18 y/o - 2006");
+		System.out.println("Lasaña");
 		
 
 	}
